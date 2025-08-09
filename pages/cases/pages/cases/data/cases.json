@@ -1,0 +1,21 @@
+[
+  {
+    "slug": "nimitz-tic-tac-2004",
+    "title": "USS Nimitz 'Tic Tac' (2004)",
+    "date": "2004-11-14",
+    "location": "Off San Diego, USA",
+    "coordinates": [32.9, -117.3],
+    "summary": "US Navy pilots from the USS Nimitz Carrier Strike Group encountered a white, Tic Tac-shaped object with unusual acceleration and flight behavior.",
+    "claims": [
+      {
+        "text": "Object showed rapid acceleration beyond known aircraft performance.",
+        "evidence": "ATFLIR data, pilot testimony, radar tracks.",
+        "confidence": "medium"
+      }
+    ],
+    "sources": [
+      { "label": "ATFLIR video (FLIR1)", "url": "https://www.navair.navy.mil/" }
+    ],
+    "editorsNotesHtml": "<p>This case helped kick off modern mainstream interest. Strong witnesses and instrument data, but incomplete sensor records keep it unresolved.</p>"
+  }
+]
